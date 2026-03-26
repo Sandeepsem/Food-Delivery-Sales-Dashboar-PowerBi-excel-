@@ -8,17 +8,13 @@
 
 ## 📌 Dashboard Preview
 
-![Image](https://images.openai.com/static-rsc-4/3KEGAtvcW4Px4wIc0R1wBo9WUMUiUmR3p0qEbSrwKLX2O3sAmjiN8XcGvLnFa-wpufdPE9utimW5ESNcRqWxfVJCP6EDP6k27MwC5B-cAVMV9A32q762-u_CXxP_SCSP363jAALPNtL1VMplsE2oK98AW0k4f-tq38ZOVykyXepBHWJnoT8npaFIlfkdWY1z?purpose=fullsize)
+![Image](swiggy_page-0001.jpg)
 
-![Image](https://images.openai.com/static-rsc-4/Fal0ShG4MKE-fSKeqcB5L5ikP6X-Sp34QeuYQv5hxaLOmzcN15SjNt6VAz3Iu1Jfa4OJhrqh_ip1dHNrQoSZBaJXbwaC29kbmdOU_ch_spzSxhOU_ncX_yDas9M-CVePfqHoLMAD7a4NczW1viX9zw3yw7ulHlAK5BRo_iTBL29bQBfC4QZs-HiDz8viM4_2?purpose=fullsize)
+![Image](swiggy_page-0002.jpg)
 
-![Image](https://images.openai.com/static-rsc-4/gRxxflsdcPskTE_F9Iz1XToU4K2fOcsLRP1juIXT8g5TeTeQ4uGny2aYxzUxPVjowHKe6mvVUVSwI1THTy9z0dY1xnDt2HWSci7UVhrVbnxixDP7oqh5a79eptEyAF8k-ofljFzHdlZxECXA8H0RXAhTLAufEfTJdnosddBzGRzcSIROL3SEIDKWKIZIoEjf?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/gAagRnH0OiuCeAvbNqU3m1zRR6IRlbpARx8IgVVNeLu6cYGuYLoWiP3hClI_VU6SftIzcFmGNeTWSWSe9J7-xo6Y4t6aTwflh-SU3F0pwOXttvs4auMnNcOZCtJb4DbsAFwOerxCXQS_0u03pzF22vYEcbWsW9GlPYEXNjlS0Dp6NcmYk1q0BJes_XnCanzn?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/wpS-dNH1xfzpLVMQBxzPKhaDoM7xJw0M0xUzm5HE5jgYDitUmAfGyP_aijoE7Ojo27pLsRcJo_tRk7xnDK3yvD_N_rVLK8OiubH4zK_tNTddAQahxJ807zNKTIZ5B0HhMRKuq00KwafK9X79Hd12jtCEwJd2lJwsoojr7-smmDDbcdP4oGM9stwfh0gg7sY_?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/31BPTHGOmY0ZfpA1C0UF5XRLM5DljOfA2Vp1mgaWha2DV-7Iylvg74S_9uxYjk4jOEd3uqucj5P7XUv5svBuR8o0-2sWVlwKodtbiz1EhcE9UBDnQa844nAC-pTCyAIv71QA5NMdKPZU9jkLaZ8O6IRNCIMS7BFMYSxbROUpg0exVe7n-TMiALRaFocFXWTY?purpose=fullsize)
 
 ---
 
